@@ -1,0 +1,15 @@
+
+        html {
+            font-size: 22px;
+        }
+        body {
+            background-color: rgb(136, 87, 182);
+            color: rgb(255, 255, 255);
+        }
+        h1 {
+            color: rgb(255, 223, 0);
+        }
+        p {
+            font-style: italic;
+        }
+        
