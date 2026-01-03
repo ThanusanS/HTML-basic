@@ -13,3 +13,11 @@
             font-style: bold;
         }
         
+
+
+        table,tr,th,td,caption{
+            border: 1px solid rgb(187, 16, 25);
+            font-family: 'Courier New', Courier, monospace;
+            border-collapse:collapse;
+            padding: 0.5rem;
+        }
